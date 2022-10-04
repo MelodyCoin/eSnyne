@@ -1,6 +1,6 @@
 USAGE:
 
-Copy \eSnyne\ board files folder to your Vivado and Vitis \board_files\  to add eSnyne tDeveloppement Board to Xilinx SDK/Vivado/Vitis. 
+Copy \eSnyne\ board files folder to your Vivado and Vitis \board_files\  to add eSnyne Developpement Board to Xilinx SDK/Vivado/Vitis. 
 
 The \board_files\ folders are usually located inside the xilinx installation folder for Vivado and Vitis respective versions
 
