@@ -3,7 +3,7 @@
  Introduction to eSnyne 
 */-------------------------------------------------------------------------------------------------------------------------------------------------------------------/*
 
-eSnyne (pronounced yes9) is a Powerful FPGA/SoC Developpement Board from used Antminer S9 Control Board. (Also works on T9+ and E3 Control Boards)
+eSnyne (pronounced yes9) is a Powerful FPGA/SoC Developpement Board made from repurposed Antminer S9 Control Board. (Also works on T9+ and E3 Control Boards)
 
 
 I got the idea to tranform miner control board into valuable developpement platform a couple years ago but it stayed in the idea state for a while because i was lacking the time , but i finaly got myself time to make developpement more accessible for lot of hobyist that dont have the money nor want to spend hundreds and thousands of dollars to only be able to get an FPGA Board.
