@@ -1,0 +1,2 @@
+.h filter=lfs diff=lfs merge=lfs -text
+.c filter=lfs diff=lfs merge=lfs -text

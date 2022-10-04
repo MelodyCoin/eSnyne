@@ -1,0 +1,15 @@
+.jpg filter=lfs diff=lfs merge=lfs -text
+.xml filter=lfs diff=lfs merge=lfs -text
+.7z filter=lfs diff=lfs merge=lfs -text
+.xsa filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]. filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]].tcl
+git[[:space:]]lfs[[:space:]]track[[:space:]] filter=lfs diff=lfs merge=lfs -text
+.tcl filter=lfs diff=lfs merge=lfs -text
+.cproject filter=lfs diff=lfs merge=lfs -text
+.cproject.project
+git[[:space:]]lfs[[:space:]]track[[:space:]].project
+git[[:space:]]lfs[[:space:]]track[[:space:]].cproject.project filter=lfs diff=lfs merge=lfs -text
+.spr
+git[[:space:]]add[[:space:]]platform.tcl
+git[[:space:]]lfs[[:space:]]track[[:space:]].spr filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,2289 @@
+TRACE::2022-10-04.13:57:09::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:09::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:09::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:11::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:11::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:11::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:11::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-10-04.13:57:12::SCWPlatform::Opened new HwDB with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-10-04.13:57:12::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0"
+		}]
+}
+TRACE::2022-10-04.13:57:12::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-10-04.13:57:12::SCWDomain::checking for install qemu data   : 
+TRACE::2022-10-04.13:57:12::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-10-04.13:57:12::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:12::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2022-10-04.13:57:12::SCWPlatform::Generating the sources  .
+TRACE::2022-10-04.13:57:12::SCWBDomain::Generating boot domain sources.
+TRACE::2022-10-04.13:57:12::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:12::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:12::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-10-04.13:57:12::SCWMssOS::No sw design opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::mss does not exists at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::Creating sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::Adding the swdes entry, created swdb C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::Writing mss at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:12::SCWMssOS::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-10-04.13:57:12::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-04.13:57:12::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-04.13:57:12::SCWBDomain::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-10-04.13:57:18::SCWPlatform::Generating sources Done.
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss||
+
+KEYINFO::2022-10-04.13:57:18::SCWMssOS::Could not open the swdb for C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+KEYINFO::2022-10-04.13:57:18::SCWMssOS::Could not open the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss is not found
+
+TRACE::2022-10-04.13:57:18::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-10-04.13:57:18::SCWMssOS::No sw design opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::mss exists loading the mss file  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Opened the sw design from mss  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Adding the swdes entry C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2022-10-04.13:57:18::SCWMssOS::updating the scw layer about changes
+TRACE::2022-10-04.13:57:18::SCWMssOS::Opened the sw design.  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:18::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:18::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:18::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:18::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:18::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-10-04.13:57:18::SCWDomain::checking for install qemu data   : 
+TRACE::2022-10-04.13:57:18::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-10-04.13:57:18::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:18::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:18::SCWMssOS::No sw design opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::mss does not exists at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Creating sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Adding the swdes entry, created swdb C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Writing mss at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:18::SCWMssOS::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2022-10-04.13:57:18::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-04.13:57:18::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-04.13:57:18::SCWMssOS::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2022-10-04.13:57:18::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Running validate of swdbs.
+KEYINFO::2022-10-04.13:57:19::SCWMssOS::Could not open the swdb for C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+KEYINFO::2022-10-04.13:57:19::SCWMssOS::Could not open the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss is not found
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-10-04.13:57:19::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2022-10-04.13:57:19::SCWMssOS::Writing the mss file completed C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-10-04.13:57:19::SCWPlatform::Started generating the artifacts platform eSnyne_1_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-10-04.13:57:19::SCWPlatform::Started generating the artifacts for system configuration eSnyne_1_0
+LOG::2022-10-04.13:57:19::SCWSystem::Checking the domain zynq_fsbl
+LOG::2022-10-04.13:57:19::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2022-10-04.13:57:19::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-10-04.13:57:19::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2022-10-04.13:57:19::SCWSystem::Checking the domain standalone_domain
+LOG::2022-10-04.13:57:19::SCWSystem::Not a boot domain 
+LOG::2022-10-04.13:57:19::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2022-10-04.13:57:19::SCWDomain::Generating domain artifcats
+TRACE::2022-10-04.13:57:19::SCWMssOS::Generating standalone artifcats
+TRACE::2022-10-04.13:57:19::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/export/eSnyne_1_0/sw/eSnyne_1_0/qemu/
+TRACE::2022-10-04.13:57:19::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/export/eSnyne_1_0/sw/eSnyne_1_0/standalone_domain/qemu/
+TRACE::2022-10-04.13:57:19::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2022-10-04.13:57:19::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-04.13:57:19::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-10-04.13:57:19::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2022-10-04.13:57:19::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-10-04.13:57:19::SCWMssOS::Copying to export directory.
+TRACE::2022-10-04.13:57:19::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-10-04.13:57:19::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2022-10-04.13:57:19::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2022-10-04.13:57:19::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2022-10-04.13:57:19::SCWSystem::Completed Processing the sysconfig eSnyne_1_0
+LOG::2022-10-04.13:57:19::SCWPlatform::Completed generating the artifacts for system configuration eSnyne_1_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Started preparing the platform 
+TRACE::2022-10-04.13:57:19::SCWSystem::Writing the bif file for system config eSnyne_1_0
+TRACE::2022-10-04.13:57:19::SCWSystem::dir created 
+TRACE::2022-10-04.13:57:19::SCWSystem::Writing the bif 
+TRACE::2022-10-04.13:57:19::SCWPlatform::Started writing the spfm file 
+TRACE::2022-10-04.13:57:19::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-10-04.13:57:19::SCWPlatform::Completed generating the platform
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-10-04.13:57:19::SCWPlatform::updated the xpfm file.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:19::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Opened existing hwdb zynq_wrapper_0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:19::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:19::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-10-04.13:57:19::SCWPlatform::Clearing the existing platform
+TRACE::2022-10-04.13:57:19::SCWSystem::Clearing the existing sysconfig
+TRACE::2022-10-04.13:57:19::SCWBDomain::clearing the fsbl build
+TRACE::2022-10-04.13:57:19::SCWMssOS::Removing the swdes entry for  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWMssOS::Removing the swdes entry for  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:19::SCWSystem::Clearing the domains completed.
+TRACE::2022-10-04.13:57:19::SCWPlatform::Clearing the opened hw db.
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform location is C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Removing the HwDB with name C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:19::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened new HwDB with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWReader::Active system found as  eSnyne_1_0
+TRACE::2022-10-04.13:57:21::SCWReader::Handling sysconfig eSnyne_1_0
+TRACE::2022-10-04.13:57:21::SCWDomain::checking for install qemu data   : 
+TRACE::2022-10-04.13:57:21::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-10-04.13:57:21::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-10-04.13:57:21::SCWMssOS::No sw design opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::mss exists loading the mss file  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Opened the sw design from mss  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Adding the swdes entry C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2022-10-04.13:57:21::SCWMssOS::updating the scw layer about changes
+TRACE::2022-10-04.13:57:21::SCWMssOS::Opened the sw design.  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:21::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:21::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2022-10-04.13:57:21::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:21::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:21::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:21::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2022-10-04.13:57:21::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:21::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWReader::No isolation master present  
+TRACE::2022-10-04.13:57:21::SCWDomain::checking for install qemu data   : 
+TRACE::2022-10-04.13:57:21::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2022-10-04.13:57:21::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:21::SCWMssOS::No sw design opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::mss exists loading the mss file  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Opened the sw design from mss  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Adding the swdes entry C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2022-10-04.13:57:21::SCWMssOS::updating the scw layer about changes
+TRACE::2022-10-04.13:57:21::SCWMssOS::Opened the sw design.  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:21::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:21::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:21::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2022-10-04.13:57:21::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:21::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:21::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:21::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:21::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:21::SCWReader::No isolation master present  
+LOG::2022-10-04.13:57:42::SCWPlatform::Started generating the artifacts platform eSnyne_1_0
+TRACE::2022-10-04.13:57:42::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-10-04.13:57:42::SCWPlatform::Started generating the artifacts for system configuration eSnyne_1_0
+LOG::2022-10-04.13:57:42::SCWSystem::Checking the domain zynq_fsbl
+LOG::2022-10-04.13:57:42::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2022-10-04.13:57:42::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-10-04.13:57:42::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2022-10-04.13:57:42::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:42::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:42::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:42::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:42::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:42::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:42::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:42::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:42::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:42::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:42::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:42::SCWBDomain::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2022-10-04.13:57:42::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-04.13:57:42::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2022-10-04.13:57:42::SCWBDomain::System Command Ran  C:&  cd  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl& make -C  zynq_fsbl_bsp & make 
+TRACE::2022-10-04.13:57:42::SCWBDomain::make: Entering directory 'C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2022-10-04.13:57:42::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2022-10-04.13:57:42::SCWBDomain::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2022-10-04.13:57:42::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2022-10-04.13:57:42::SCWBDomain::d -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:42::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:42::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:42::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:42::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:42::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:42::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:42::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:42::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/nandps_v2_6/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/nandps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:42::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:42::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:42::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:42::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+TRACE::2022-10-04.13:57:42::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2022-10-04.13:57:42::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2022-10-04.13:57:42::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:43::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:43::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/spips_v3_5/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/spips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:43::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:43::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-10-04.13:57:43::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:43::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-10-04.13:57:43::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-10-04.13:57:43::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:43::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:43::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::'Finished building libraries sequentially.'
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -j --no-print-directory par_libs
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2022-10-04.13:57:43::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2022-10-04.13:57:43::SCWBDomain::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2022-10-04.13:57:43::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2022-10-04.13:57:43::SCWBDomain::d -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:43::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:43::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:43::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:43::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/nandps_v2_6/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/nandps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:43::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:43::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2022-10-04.13:57:43::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2022-10-04.13:57:43::SCWBDomain::startfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:43::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:44::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:44::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:44::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:44::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/spips_v3_5/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/spips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:44::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:44::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-10-04.13:57:44::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:44::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-10-04.13:57:44::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-10-04.13:57:44::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:44::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:44::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:44::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:44::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:44::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:44::SCWBDomain::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-10-04.13:57:44::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-10-04.13:57:44::SCWBDomain:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-10-04.13:57:44::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:44::SCWBDomain::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:44::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:44::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:44::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:44::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/nandps_v2_6/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/nandps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:44::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:44::SCWBDomain::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:44::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:44::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/spips_v3_5/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/spips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:44::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:44::SCWBDomain::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-10-04.13:57:44::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-10-04.13:57:44::SCWBDomain::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-10-04.13:57:44::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-10-04.13:57:44::SCWBDomain::tfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_4/src"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:44::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:44::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:44::SCWBDomain::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:45::SCWBDomain::'Finished building libraries parallelly.'
+
+TRACE::2022-10-04.13:57:45::SCWBDomain::make --no-print-directory archive
+
+TRACE::2022-10-04.13:57:45::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/kill.o ps7_cortexa9_0/
+TRACE::2022-10-04.13:57:45::SCWBDomain::lib/xscuwdt.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/xnandps_bbm.o ps7_cortexa9_0/
+TRACE::2022-10-04.13:57:45::SCWBDomain::lib/xsdps_card.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/s
+TRACE::2022-10-04.13:57:45::SCWBDomain::leep.o ps7_cortexa9_0/lib/xspips_selftest.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xadcps
+TRACE::2022-10-04.13:57:45::SCWBDomain::_intr.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xnandps.o ps7_cortexa9_0/lib/xdmap
+TRACE::2022-10-04.13:57:45::SCWBDomain::s_sinit.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/xsdps_opt
+TRACE::2022-10-04.13:57:45::SCWBDomain::ions.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o p
+TRACE::2022-10-04.13:57:45::SCWBDomain::s7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cortexa9_0/lib/xsdps.o ps7_cort
+TRACE::2022-10-04.13:57:45::SCWBDomain::exa9_0/lib/close.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/l
+TRACE::2022-10-04.13:57:45::SCWBDomain::ib/xscugic_hw.o ps7_cortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7
+TRACE::2022-10-04.13:57:45::SCWBDomain::_cortexa9_0/lib/translation_table.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xspips_sinit.o ps7_cortexa9_0/lib/xil_mem.o p
+TRACE::2022-10-04.13:57:45::SCWBDomain::s7_cortexa9_0/lib/xnandps_onfi.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/xscugic_g.o ps
+TRACE::2022-10-04.13:57:45::SCWBDomain::7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/xspips_options.o ps7_cortexa9_0/lib/xil_sleepcomm
+TRACE::2022-10-04.13:57:45::SCWBDomain::on.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7
+TRACE::2022-10-04.13:57:45::SCWBDomain::_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/open.o
+TRACE::2022-10-04.13:57:45::SCWBDomain:: ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/lib/read.o p
+TRACE::2022-10-04.13:57:45::SCWBDomain::s7_cortexa9_0/lib/xspips.o ps7_cortexa9_0/lib/xspips_g.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib/xgpiops.o ps7_cort
+TRACE::2022-10-04.13:57:45::SCWBDomain::exa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xspips_hw.o ps7_cortexa9_0/lib/xnandps_sinit.o ps7_cortexa9_0/lib/xuartps_intr.o 
+TRACE::2022-10-04.13:57:45::SCWBDomain::ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/xdevcfg_g.o ps
+TRACE::2022-10-04.13:57:45::SCWBDomain::7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/xil_testcache.o 
+TRACE::2022-10-04.13:57:45::SCWBDomain::ps7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xdevcfg_selfte
+TRACE::2022-10-04.13:57:45::SCWBDomain::st.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/xnandps_g.o ps7_cortexa9_0/lib/xscuwdt_sinit.o 
+TRACE::2022-10-04.13:57:45::SCWBDomain::ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/fstat.o ps7_cortexa9_
+TRACE::2022-10-04.13:57:45::SCWBDomain::0/lib/errno.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib/vec
+TRACE::2022-10-04.13:57:45::SCWBDomain::tors.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_
+TRACE::2022-10-04.13:57:45::SCWBDomain::assert.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa
+TRACE::2022-10-04.13:57:45::SCWBDomain::9_0/lib/xscugic.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa
+TRACE::2022-10-04.13:57:45::SCWBDomain::9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/xdevcfg.o
+
+TRACE::2022-10-04.13:57:45::SCWBDomain::'Finished building libraries'
+
+TRACE::2022-10-04.13:57:45::SCWBDomain::make: Leaving directory 'C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2022-10-04.13:57:46::SCWBDomain::exa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-10-04.13:57:46::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-10-04.13:57:46::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c image_mover.c -o image_mover.o -Izynq
+TRACE::2022-10-04.13:57:46::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-10-04.13:57:46::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2022-10-04.13:57:46::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-10-04.13:57:46::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2022-10-04.13:57:46::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-10-04.13:57:46::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2022-10-04.13:57:46::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2022-10-04.13:57:46::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:46::SCWBDomain::arm-none-eabi-gcc -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -O2 -c -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2022-10-04.13:57:46::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2022-10-04.13:57:47::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf  sd.o  nand.o  nor.o  image_mover.o  md5.o  fsbl_hooks.o  main.o  rsa.o  qspi.o  ps7_init.o  pcap
+TRACE::2022-10-04.13:57:47::SCWBDomain::.o  fsbl_handoff.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:47::SCWBDomain::Wl,-build-id=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgc
+TRACE::2022-10-04.13:57:47::SCWBDomain::c,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                                   -Wl,--gc-sections -Lzyn
+TRACE::2022-10-04.13:57:47::SCWBDomain::q_fsbl_bsp/ps7_cortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2022-10-04.13:57:47::SCWSystem::Checking the domain standalone_domain
+LOG::2022-10-04.13:57:47::SCWSystem::Not a boot domain 
+LOG::2022-10-04.13:57:47::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2022-10-04.13:57:47::SCWDomain::Generating domain artifcats
+TRACE::2022-10-04.13:57:47::SCWMssOS::Generating standalone artifcats
+TRACE::2022-10-04.13:57:47::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/export/eSnyne_1_0/sw/eSnyne_1_0/qemu/
+TRACE::2022-10-04.13:57:47::SCWMssOS::Copying the qemu file from  C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/export/eSnyne_1_0/sw/eSnyne_1_0/standalone_domain/qemu/
+TRACE::2022-10-04.13:57:47::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-10-04.13:57:47::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:47::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:47::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:47::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:47::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:47::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:47::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:47::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:47::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:47::SCWMssOS::Completed writing the mss file at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2022-10-04.13:57:47::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:47::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-04.13:57:47::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-10-04.13:57:47::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2022-10-04.13:57:47::SCWMssOS::doing bsp build ... 
+TRACE::2022-10-04.13:57:47::SCWMssOS::System Command Ran  C: & cd  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2022-10-04.13:57:47::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -j --no-print-directory par_libs
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2022-10-04.13:57:47::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2022-10-04.13:57:47::SCWMssOS::ard -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2022-10-04.13:57:47::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2022-10-04.13:57:47::SCWMssOS::d -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:47::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:47::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:47::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:47::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/nandps_v2_6/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/nandps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2022-10-04.13:57:47::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2022-10-04.13:57:47::SCWMssOS::startfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:47::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:47::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/spips_v3_5/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/spips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:47::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:47::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-10-04.13:57:47::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:47::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-10-04.13:57:47::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-10-04.13:57:47::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2022-10-04.13:57:47::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2022-10-04.13:57:47::SCWMssOS::artfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2022-10-04.13:57:47::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2022-10-04.13:57:47::SCWMssOS:: -nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2022-10-04.13:57:47::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2022-10-04.13:57:47::SCWMssOS::nostartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:47::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:47::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:47::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:47::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_7/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:47::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:47::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_8/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpiops_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:47::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:47::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/nandps_v2_6/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/nandps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:47::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:47::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:47::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:47::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2022-10-04.13:57:47::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2022-10-04.13:57:47::SCWMssOS::rtfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:47::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:47::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_10/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/sdps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:47::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:47::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/spips_v3_5/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_3/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/spips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2022-10-04.13:57:47::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2022-10-04.13:57:47::SCWMssOS::iles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v7_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2022-10-04.13:57:47::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2022-10-04.13:57:47::SCWMssOS::tartfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_5/src"
+
+TRACE::2022-10-04.13:57:47::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_10/src"
+
+TRACE::2022-10-04.13:57:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2022-10-04.13:57:48::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2022-10-04.13:57:48::SCWMssOS::files -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:48::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2022-10-04.13:57:48::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2022-10-04.13:57:48::SCWMssOS::tfiles -g -Wall -Wextra"
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::make --no-print-directory archive
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/xadcps_selftest.o ps7_cortexa9_0/lib/kill.o ps7_cortexa9_0/
+TRACE::2022-10-04.13:57:49::SCWMssOS::lib/xscuwdt.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/xnandps_bbm.o ps7_cortexa9_0/li
+TRACE::2022-10-04.13:57:49::SCWMssOS::b/xsdps_card.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/sle
+TRACE::2022-10-04.13:57:49::SCWMssOS::ep.o ps7_cortexa9_0/lib/xspips_selftest.o ps7_cortexa9_0/lib/xuartps_intr.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/
+TRACE::2022-10-04.13:57:49::SCWMssOS::xadcps_intr.o ps7_cortexa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xnandps.o ps7_cortexa9_0/lib
+TRACE::2022-10-04.13:57:49::SCWMssOS::/xdmaps_sinit.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_util.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/xsd
+TRACE::2022-10-04.13:57:49::SCWMssOS::ps_options.o ps7_cortexa9_0/lib/xdmaps_selftest.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xil_misc_psreset_a
+TRACE::2022-10-04.13:57:49::SCWMssOS::pi.o ps7_cortexa9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/xgpiops_g.o ps7_cortexa9_0/lib/xsdps.o ps7_cortexa9_0/lib/close.o ps
+TRACE::2022-10-04.13:57:49::SCWMssOS::7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_c
+TRACE::2022-10-04.13:57:49::SCWMssOS::ortexa9_0/lib/xgpiops_sinit.o ps7_cortexa9_0/lib/xuartps_sinit.o ps7_cortexa9_0/lib/xgpiops_selftest.o ps7_cortexa9_0/lib/trans
+TRACE::2022-10-04.13:57:49::SCWMssOS::lation_table.o ps7_cortexa9_0/lib/write.o ps7_cortexa9_0/lib/xspips_sinit.o ps7_cortexa9_0/lib/xil_mmu.o ps7_cortexa9_0/lib/boo
+TRACE::2022-10-04.13:57:49::SCWMssOS::t.o ps7_cortexa9_0/lib/xnandps_onfi.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/xscugic_g
+TRACE::2022-10-04.13:57:49::SCWMssOS::.o ps7_cortexa9_0/lib/xsdps_sinit.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/xspips_options.o ps7_cortexa9_0/lib/xil_slee
+TRACE::2022-10-04.13:57:49::SCWMssOS::pcommon.o ps7_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xdmaps_hw.
+TRACE::2022-10-04.13:57:49::SCWMssOS::o ps7_cortexa9_0/lib/xgpiops_intr.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/f
+TRACE::2022-10-04.13:57:49::SCWMssOS::cntl.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_
+TRACE::2022-10-04.13:57:49::SCWMssOS::hw.o ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/xspips.o ps7_cortexa9_0/lib/xspips_g.o ps7_cortexa9_0/lib/xil_testmem.o ps7_c
+TRACE::2022-10-04.13:57:49::SCWMssOS::ortexa9_0/lib/xgpiops.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xspips_hw.o ps7_cortexa9_0/lib/xnandps_sinit.o ps
+TRACE::2022-10-04.13:57:49::SCWMssOS::7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/xdevcfg_g.o ps7_
+TRACE::2022-10-04.13:57:49::SCWMssOS::cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/xil_testcache.o ps
+TRACE::2022-10-04.13:57:49::SCWMssOS::7_cortexa9_0/lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xscutimer.o ps7_cortexa9_0/lib/xdevcfg_selftest
+TRACE::2022-10-04.13:57:49::SCWMssOS::.o ps7_cortexa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/xnandps_g.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps
+TRACE::2022-10-04.13:57:49::SCWMssOS::7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/xgpiops_hw.o ps7_cortexa9_0/lib/xsdps_g.o ps7_cortexa9_0/lib/fstat.o ps7_cortexa9_0/
+TRACE::2022-10-04.13:57:49::SCWMssOS::lib/errno.o ps7_cortexa9_0/lib/lseek.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/_sbrk.o ps7_cortexa9_0/lib/vecto
+TRACE::2022-10-04.13:57:49::SCWMssOS::rs.o ps7_cortexa9_0/lib/xil_exception.o ps7_cortexa9_0/lib/putnum.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa9_0/lib/xil_as
+TRACE::2022-10-04.13:57:49::SCWMssOS::sert.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xsdps_host.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_
+TRACE::2022-10-04.13:57:49::SCWMssOS::0/lib/xscugic.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xil-crt0.o ps7_cortexa9_
+TRACE::2022-10-04.13:57:49::SCWMssOS::0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xdevcfg.o
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::'Finished building libraries'
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::Copying to export directory.
+TRACE::2022-10-04.13:57:49::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-10-04.13:57:49::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-10-04.13:57:49::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2022-10-04.13:57:49::SCWSystem::Completed Processing the sysconfig eSnyne_1_0
+LOG::2022-10-04.13:57:49::SCWPlatform::Completed generating the artifacts for system configuration eSnyne_1_0
+TRACE::2022-10-04.13:57:49::SCWPlatform::Started preparing the platform 
+TRACE::2022-10-04.13:57:49::SCWSystem::Writing the bif file for system config eSnyne_1_0
+TRACE::2022-10-04.13:57:49::SCWSystem::dir created 
+TRACE::2022-10-04.13:57:49::SCWSystem::Writing the bif 
+TRACE::2022-10-04.13:57:49::SCWPlatform::Started writing the spfm file 
+TRACE::2022-10-04.13:57:49::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-10-04.13:57:49::SCWPlatform::Completed generating the platform
+TRACE::2022-10-04.13:57:49::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:49::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:49::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:49::SCWMssOS::Saving the mss changes C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-04.13:57:49::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-04.13:57:49::SCWMssOS::Commit changes completed.
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:49::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:49::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWWriter::formatted JSON is {
+	"platformName":	"eSnyne_1_0",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"eSnyne_1_0",
+	"platHandOff":	"C:/Users/Solstice/Documents/S9miner_sample-master/eSnyne/eSnyne_1.0.xsa",
+	"platIntHandOff":	"<platformDir>/hw/eSnyne_1.0.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"eSnyne_1_0",
+	"systems":	[{
+			"systemName":	"eSnyne_1_0",
+			"systemDesc":	"eSnyne_1_0",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"eSnyne_1_0",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"833faf1c8485a40d2906b9d2f7b1d7cd",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"C:/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"4458c5e05826446c30e12a220af0d8bc",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-10-04.13:57:49::SCWPlatform::updated the xpfm file.
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to open the hw design at C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA given C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA absoulate path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform::DSA directory C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Platform Path C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/hw/eSnyne_1.0.xsa
+TRACE::2022-10-04.13:57:49::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-10-04.13:57:49::SCWPlatform::Trying to set the existing hwdb with name zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Opened existing hwdb zynq_wrapper_1
+TRACE::2022-10-04.13:57:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-04.13:57:49::SCWMssOS::Checking the sw design at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2022-10-04.13:57:49::SCWMssOS::DEBUG:  swdes dump  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2022-10-04.13:57:49::SCWMssOS::Sw design exists and opened at  C:/Users/Solstice/eSnyne_wp/eSnyne_1_0/ps7_cortexa9_0/standalone_domain/bsp/system.mss

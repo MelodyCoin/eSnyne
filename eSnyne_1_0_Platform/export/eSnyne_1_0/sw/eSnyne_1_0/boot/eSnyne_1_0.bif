@@ -1,0 +1,7 @@
+/*eSnyne_1_0*/
+the_ROM_image:
+{
+  [bootloader]<eSnyne_1_0/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}
