@@ -1,0 +1,4 @@
+.spec filter=lfs diff=lfs merge=lfs -text
+.S filter=lfs diff=lfs merge=lfs -text
+.mk filter=lfs diff=lfs merge=lfs -text
+makefile filter=lfs diff=lfs merge=lfs -text

@@ -3,3 +3,4 @@
 .bit filter=lfs diff=lfs merge=lfs -text
 .c filter=lfs diff=lfs merge=lfs -text
 .h filter=lfs diff=lfs merge=lfs -text
+.xsa filter=lfs diff=lfs merge=lfs -text
