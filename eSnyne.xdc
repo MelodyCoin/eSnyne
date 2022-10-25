@@ -1,26 +1,98 @@
 ############################################################################
-##
-##  Xilinx, Inc. 2006            www.xilinx.com
-############################################################################
-##  File name :       ps7_constraints.xdc
-##
-##  Details :     Constraints file
-##                    FPGA family:       zynq
-##                    FPGA:              xc7z010clg400-1
-##                    Device Size:        xc7z010
-##                    Package:            clg400
-##                    Speedgrade:         -1
-##
-##
-############################################################################
-############################################################################
-############################################################################
-# Clock constraints                                                        #
+##                                                                         #
+## eSnyne 1.1 pin Constraint file by MelodyCoin                            #
 ############################################################################
 
 
+
 ############################################################################
-# I/O STANDARDS and Location Constraints                                   #
+# Switch                                                                   #
+############################################################################
+
+#  S1 /"reset" / MIO[47]
+set_property iostandard "LVCMOS25" [get_ports "MIO[47]"]
+set_property PACKAGE_PIN "B14" [get_ports "MIO[47]"]
+set_property PIO_DIRECTION "INPUT" [get_ports "MIO[47]"]
+#  S2 / "ip reset"  / MIO[51]
+set_property iostandard "LVCMOS25" [get_ports "MIO[51]"]
+set_property PACKAGE_PIN "B9" [get_ports "MIO[51]"]
+set_property PIO_DIRECTION "INPUT" [get_ports "MIO[51]"]
+
+############################################################################
+# LEDs                                                                     #
+############################################################################
+
+#  LED_0 / "red led"  / MIO[37]
+set_property iostandard "LVCMOS25" [get_ports "MIO[37]"]
+set_property PACKAGE_PIN "A10" [get_ports "MIO[37]"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[37]"]
+#  LED_1 / "green led"  / MIO[38]
+set_property iostandard "LVCMOS25" [get_ports "MIO[38]"]
+set_property PACKAGE_PIN "E13" [get_ports "MIO[38]"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[38]"]
+
+#  D1 "DONE_0"/ green //center led, smt #
+#  PACKAGE_PIN "R11"                    #
+
+#  D2 / green //center led, smt   / MIO[15]
+set_property iostandard "LVCMOS33" [get_ports "MIO[15]"]
+set_property PACKAGE_PIN "C8" [get_ports "MIO[15]"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[15]"]
+
+
+#  D6 / green //bar led 1 of 4, smt  / 34_L8P
+set_property iostandard "LVCMOS25" [get_ports "IO_L8P_T1_34"]
+set_property PACKAGE_PIN "W14" [get_ports "IO_L8P_T1_34"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L8P_T1_34"]
+#  D5  / green //bar led  2 of 4, smt  / 34_L7P
+set_property iostandard "LVCMOS25" [get_ports "IO_L7P_T1_34"]
+set_property PACKAGE_PIN "" [get_ports "IO_L7P_T1_34"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L7P_T1_34"]
+# D8  /  green //bar led 3 of 4, smt  / 34_L9P
+set_property iostandard "LVCMOS25" [get_ports "IO_L9P_T1_DQS_34"]
+set_property PACKAGE_PIN "T16" [get_ports "IO_L9P_T1_DQS_34"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L9P_T1_DQS_34"]
+# D7  / green //bar led 4 of 4, smt  / 34_L6P
+set_property iostandard "LVCMOS25" [get_ports "IO_L6P_T1_34"]
+set_property PACKAGE_PIN "P14" [get_ports "IO_L6P_T1_34"]
+set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L6P_T1_34"]
+
+
+############################################################################
+# SPI 1                                                                    #
+############################################################################
+
+#  SPI 1 / ss[0] / MIO[37]
+set_property iostandard "LVCMOS25" [get_ports "MIO[37]"]
+set_property PACKAGE_PIN "A10" [get_ports "MIO[37]"]
+set_property slew "slow" [get_ports "MIO[37]"]
+set_property drive "8" [get_ports "MIO[37]"]
+set_property pullup "TRUE" [get_ports "MIO[37]"]
+set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[37]"]
+#  SPI 1 / sclk / MIO[36]
+set_property iostandard "LVCMOS25" [get_ports "MIO[36]"]
+set_property PACKAGE_PIN "A11" [get_ports "MIO[36]"]
+set_property slew "slow" [get_ports "MIO[36]"]
+set_property drive "8" [get_ports "MIO[36]"]
+set_property pullup "TRUE" [get_ports "MIO[36]"]
+set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[36]"]
+#  SPI 1 / miso / MIO[35]
+set_property iostandard "LVCMOS25" [get_ports "MIO[35]"]
+set_property PACKAGE_PIN "F12" [get_ports "MIO[35]"]
+set_property slew "slow" [get_ports "MIO[35]"]
+set_property drive "8" [get_ports "MIO[35]"]
+set_property pullup "TRUE" [get_ports "MIO[35]"]
+set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[35]"]
+#  SPI 1 / mosi / MIO[34]
+set_property iostandard "LVCMOS25" [get_ports "MIO[34]"]
+set_property PACKAGE_PIN "A12" [get_ports "MIO[34]"]
+set_property slew "slow" [get_ports "MIO[34]"]
+set_property drive "8" [get_ports "MIO[34]"]
+set_property pullup "TRUE" [get_ports "MIO[34]"]
+set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[34]"]
+
+############################################################################
+# UART 1                                                                   #
 ############################################################################
 
 #  UART 1 / rx / MIO[49]
@@ -37,6 +109,12 @@ set_property slew "slow" [get_ports "MIO[48]"]
 set_property drive "8" [get_ports "MIO[48]"]
 set_property pullup "TRUE" [get_ports "MIO[48]"]
 set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[48]"]
+
+
+############################################################################
+# SD Card                                                                  #
+############################################################################
+
 #  SD 0 / data[3] / MIO[45]
 set_property iostandard "LVCMOS25" [get_ports "MIO[45]"]
 set_property PACKAGE_PIN "B15" [get_ports "MIO[45]"]
@@ -79,34 +157,11 @@ set_property slew "slow" [get_ports "MIO[40]"]
 set_property drive "8" [get_ports "MIO[40]"]
 set_property pullup "TRUE" [get_ports "MIO[40]"]
 set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[40]"]
-#  SPI 1 / ss[0] / MIO[37]
-set_property iostandard "LVCMOS25" [get_ports "MIO[37]"]
-set_property PACKAGE_PIN "A10" [get_ports "MIO[37]"]
-set_property slew "slow" [get_ports "MIO[37]"]
-set_property drive "8" [get_ports "MIO[37]"]
-set_property pullup "TRUE" [get_ports "MIO[37]"]
-set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[37]"]
-#  SPI 1 / sclk / MIO[36]
-set_property iostandard "LVCMOS25" [get_ports "MIO[36]"]
-set_property PACKAGE_PIN "A11" [get_ports "MIO[36]"]
-set_property slew "slow" [get_ports "MIO[36]"]
-set_property drive "8" [get_ports "MIO[36]"]
-set_property pullup "TRUE" [get_ports "MIO[36]"]
-set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[36]"]
-#  SPI 1 / miso / MIO[35]
-set_property iostandard "LVCMOS25" [get_ports "MIO[35]"]
-set_property PACKAGE_PIN "F12" [get_ports "MIO[35]"]
-set_property slew "slow" [get_ports "MIO[35]"]
-set_property drive "8" [get_ports "MIO[35]"]
-set_property pullup "TRUE" [get_ports "MIO[35]"]
-set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[35]"]
-#  SPI 1 / mosi / MIO[34]
-set_property iostandard "LVCMOS25" [get_ports "MIO[34]"]
-set_property PACKAGE_PIN "A12" [get_ports "MIO[34]"]
-set_property slew "slow" [get_ports "MIO[34]"]
-set_property drive "8" [get_ports "MIO[34]"]
-set_property pullup "TRUE" [get_ports "MIO[34]"]
-set_property PIO_DIRECTION "BIDIR" [get_ports "MIO[34]"]
+
+############################################################################
+# Ethernet 0                                                               #
+############################################################################
+
 #  Enet 0 / rx_ctl / MIO[27]
 set_property iostandard "LVCMOS25" [get_ports "MIO[27]"]
 set_property PACKAGE_PIN "D13" [get_ports "MIO[27]"]
@@ -191,6 +246,12 @@ set_property slew "slow" [get_ports "MIO[16]"]
 set_property drive "8" [get_ports "MIO[16]"]
 set_property pullup "TRUE" [get_ports "MIO[16]"]
 set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[16]"]
+
+############################################################################
+# Nand                                                                     #
+############################################################################
+
+
 #  NAND Flash / busy / MIO[14]
 set_property iostandard "LVCMOS33" [get_ports "MIO[14]"]
 set_property PACKAGE_PIN "C5" [get_ports "MIO[14]"]
@@ -282,6 +343,10 @@ set_property slew "slow" [get_ports "MIO[0]"]
 set_property drive "8" [get_ports "MIO[0]"]
 set_property pullup "TRUE" [get_ports "MIO[0]"]
 set_property PIO_DIRECTION "OUTPUT" [get_ports "MIO[0]"]
+
+############################################################################
+# DDR (DONT TOUCH)                                                         #
+############################################################################ 
 set_property iostandard "SSTL15_T_DCI" [get_ports "DDR_VRP"]
 set_property PACKAGE_PIN "H5" [get_ports "DDR_VRP"]
 set_property slew "FAST" [get_ports "DDR_VRP"]
