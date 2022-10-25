@@ -1,0 +1,7 @@
+Running: xsim.dir/eSnyne_core_wrapper_behav/xsimk.exe -simmode gui -wdb eSnyne_core_wrapper_behav.wdb -simrunnum 0 -socket 52224
+Design successfully loaded
+Design Loading Memory Usage: 17120 KB (Peak: 17120 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 5269372 KB (Peak: 5269372 KB)
+Simulation CPU Usage: 1093 ms

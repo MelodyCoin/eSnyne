@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.ip_user_files/bd/eSnyne_core/sim/eSnyne_core.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'eSnyne_core'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.gen/sources_1/bd/eSnyne_core/hdl/eSnyne_core_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'eSnyne_core_wrapper'

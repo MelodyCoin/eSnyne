@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.ip_user_files/bd/eSnyne_core/ip/eSnyne_core_processing_system7_0_0/sim/eSnyne_core_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eSnyne_core_processing_system7_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.ip_user_files/bd/eSnyne_core/sim/eSnyne_core.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'eSnyne_core'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.gen/sources_1/bd/eSnyne_core/hdl/eSnyne_core_wrapper.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'eSnyne_core_wrapper'

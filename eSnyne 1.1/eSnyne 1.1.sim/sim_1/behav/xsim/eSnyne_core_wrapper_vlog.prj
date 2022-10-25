@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../eSnyne 1.1.gen/sources_1/bd/eSnyne_core/ipshared/ec67/hdl" --include "../../../../eSnyne 1.1.gen/sources_1/bd/eSnyne_core/ipshared/34f8/hdl" --include "C:/Xilinx/Vivado/2020.2/data/xilinx_vip/include" \
+"../../../../eSnyne 1.1.ip_user_files/bd/eSnyne_core/ip/eSnyne_core_processing_system7_0_0/sim/eSnyne_core_processing_system7_0_0.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.gen/sources_1/bd/eSnyne_core/hdl/eSnyne_core_wrapper.vhd,1665702793,vhdl,,,,esnyne_core_wrapper,,,,,,,,
+C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.ip_user_files/bd/eSnyne_core/ip/eSnyne_core_processing_system7_0_0/sim/eSnyne_core_processing_system7_0_0.v,1665702807,verilog,,,,eSnyne_core_processing_system7_0_0,,axi_vip_v1_1_8;processing_system7_vip_v1_0_10;uvm;xilinx_vip,../../../../eSnyne 1.1.gen/sources_1/bd/eSnyne_core/ipshared/34f8/hdl;../../../../eSnyne 1.1.gen/sources_1/bd/eSnyne_core/ipshared/ec67/hdl;C:/Xilinx/Vivado/2020.2/data/xilinx_vip/include,,,,,
+C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.ip_user_files/bd/eSnyne_core/sim/eSnyne_core.vhd,1665702793,vhdl,,,,esnyne_core,,,,,,,,
+C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,axi_vip_v1_1_8;processing_system7_vip_v1_0_10;uvm;xilinx_vip,,,,,,

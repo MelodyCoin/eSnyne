@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"eSnyne_core": {
+			"proto_instances": {
+			}
+		}
+	}
+}

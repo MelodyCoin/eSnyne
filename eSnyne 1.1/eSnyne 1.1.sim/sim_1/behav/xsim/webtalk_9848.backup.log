@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Oct 13 19:27:07 2022
+# Process ID: 9848
+# Current directory: C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim/xsim.dir/eSnyne_core_wrapper_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne 1.1/eSnyne 1.1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne -notrace
+couldn't read file "C:/Users/Solstice/Documents/eSnyne_WorkSpace/eSnyne": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Thu Oct 13 19:27:07 2022...

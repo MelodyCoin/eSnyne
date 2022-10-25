@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../eSnyne 1.1.ip_user_files/bd/eSnyne_core/sim/eSnyne_core.vhd" \
+"../../../../eSnyne 1.1.gen/sources_1/bd/eSnyne_core/hdl/eSnyne_core_wrapper.vhd" \
+
+# Do not sort compile order
+nosort
