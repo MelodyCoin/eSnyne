@@ -47,7 +47,7 @@ set_property PACKAGE_PIN "W14" [get_ports "IO_L8P_T1_34"]
 set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L8P_T1_34"]
 #  D5  / green //bar led  2 of 4, smt  / 34_L7P
 set_property iostandard "LVCMOS25" [get_ports "IO_L7P_T1_34"]
-set_property PACKAGE_PIN "" [get_ports "IO_L7P_T1_34"]
+set_property PACKAGE_PIN "Y16" [get_ports "IO_L7P_T1_34"]
 set_property PIO_DIRECTION "OUTPUT" [get_ports "IO_L7P_T1_34"]
 # D8  /  green //bar led 3 of 4, smt  / 34_L9P
 set_property iostandard "LVCMOS25" [get_ports "IO_L9P_T1_DQS_34"]
