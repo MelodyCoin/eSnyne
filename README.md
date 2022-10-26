@@ -50,7 +50,7 @@ To make your own eSnyne FPGA Developpement Board you will need:
 1- Used/New Antminer S9 Control Board, duh ^^ (easy to find for cheap on eBay or Aliexpress)
 2- Xilinx Vitis and Vivado Suite (avaible for free on Xilinx Website: https://www.xilinx.com/support/download.html)
 3- USB UART Interface (FTDI or CH341 ones can be found found around 2$ on eBay , Amazon or Aliexpress shipped)
-4- Xilinx Platform I/II Cable or a compatible Jtag interface like Waveshare or Digilent ones. (optional but almsot required for developpement and can found for 30-40$ on Amazon or eBay)
+4- Xilinx Platform I/II Cable or a compatible Jtag interface like Waveshare or Digilent ones. (optional but almost required for developpement and can found for 30-40$ on Amazon or eBay)
 5- Time! , FPGA are a learning curve, but very rewarding and very useful knowledge. Especially if it is your first FPGA Developpement Board.
 
 */-------------------------------------------------------------------------------------------------------------------------------------------------------------------/*
